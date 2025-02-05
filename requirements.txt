@@ -3,6 +3,7 @@ colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098
 comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1733502965406/work
 debugpy @ file:///D:/bld/debugpy_1737269744634/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1733236420667/work
+et_xmlfile==2.0.0
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1733208806608/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1733569351617/work
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1737420181517/work
@@ -15,6 +16,7 @@ jupyter_core @ file:///D:/bld/jupyter_core_1727163532151/work
 matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1733416936468/work
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1733325553580/work
 numpy==1.24.2
+openpyxl==3.1.5
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
 pandas==1.5.3
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1733271261340/work
