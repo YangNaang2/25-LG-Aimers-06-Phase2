@@ -20,12 +20,13 @@
 <br>
 
 ### 🔬 최종 전략
-- **구현 코드:** TMP
+- **구현 코드:** [02_autogluon.ipynb](https://github.com/nstalways/25-LG-Aimers-06-Phase2/blob/main/main/02_autogluon.ipynb)
+  - `AutoGluon` 기반 모델링
 <br>
 
 ### 🏅 대회 결과
-|  | METRIC_TMP | 등수 |
+|  | ROC-AUC | 등수 |
 | :-: | :-: | :-: |
-| public | TMP | TMP |
-| private | TMP | TMP |
+| public | 0.74157 | 113 / 794 |
+| private | 0.742 | 72 / 794 |
 <br>
